@@ -1,0 +1,99 @@
+<!DOCTYPE news SYSTEM "news.dtd" >
+<?xml-stylesheet type="text/xsl" href="news.xsl"?>
+<news>
+	<item>
+		<title>vente</title>
+		<description>casquette de Mel Gibson</description>
+		<pubDate>2307-2009</pubDate>
+	</item>
+	<item>
+		<title>vente</title>
+		<description>Mug de Nathalie Portman</description>
+		<pubDate>18-07-2009</pubDate>
+	</item>
+	<item>
+		<title>vente</title>
+		<description>bon plan pour récupérer une casquette collector</description>
+		<pubDate>14-07-2009</pubDate>
+	</item>
+	<item>
+		<title>vente</title>
+		<description>toujours à la recherche de Mugs collectors</description>
+		<pubDate>13-07-2009</pubDate>
+	</item>
+	<item>
+		<title>vente</title>
+		<description>RV : peut-être un collector à la clé</description>
+		<pubDate>12-07-2009</pubDate>
+	</item>
+    <item>
+		<title>vente</title>
+		<description>Visite à Las Vegas</description>
+		<pubDate>11/07/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>Je fais les valises</description>
+		<pubDate>10/07/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>rien de neuf today</description>
+		<pubDate>09/07/2009</pubDate>
+	</item>
+     <item>
+		<title>vente</title>
+		<description>3 boudhas du Tibet</description>
+		<pubDate>08/07/2009</pubDate>
+	</item>
+ 	<item>
+		<title>vente</title>
+		<description>Casses têtes</description>
+		<pubDate>07/07/2009</pubDate>
+	</item>	   
+    <item>
+		<title>vente</title>
+		<description>Dragons porte bougies</description>
+		<pubDate>06/07/2009</pubDate>
+	</item>	        
+    <item>
+		<title>vente</title>
+		<description>retour de voyage</description>
+		<pubDate>05/07/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>Dernier jour au Tibet</description>
+		<pubDate>04/07/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>fouilles pour trouver des objets rares</description>
+		<pubDate>03/07/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>Arrivée à Lassa</description>
+		<pubDate>02/07/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>Départ pour le Tibet</description>
+		<pubDate>01/07/2009</pubDate>
+	</item>         
+    <item>
+		<title>vente</title>
+		<description>Préparation du voyage</description>
+		<pubDate>30/06/2009</pubDate>
+	</item>        
+    <item>
+		<title>vente</title>
+		<description>bientôt la collection matrix numérotée</description>
+		<pubDate>29/06/2009</pubDate>
+	</item>         
+    <item>
+		<title>vente</title>
+		<description>recherche bon plan pour objets rares</description>
+		<pubDate>28/06/2009</pubDate>
+	</item>
+</news>

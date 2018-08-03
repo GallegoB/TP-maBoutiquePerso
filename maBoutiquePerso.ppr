@@ -1,0 +1,81 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=C:\wamp\www\maBoutiquePerso
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+maBoutiquePerso
+	+maBoutiquePerso
+		index.php
+		tshirt.php
+		boutique.php
+		panier.php
+		perso.php
+		css\cssPrincipal.php
+		js\boutique.js
+		php\chaines.php
+		foot.php
+		head.php
+		php\init.php
+		css\cssIndex.php
+		css\cssTshirt.css
+[Open project files]
+0=tshirt.php
+1=boutique.php
+2=panier.php
+3=index.php
+4=js\boutique.js
+5=head.php
+6=foot.php
+7=php\chaines.php
+8=php\init.php
+9=css\cssIndex.php
+10=css\cssPrincipal.php
+11=css\cssTshirt.css
+[Selected Project Files]
+Main=
+Selected=tshirt.php
+[tshirt.php]
+TopLine=1
+Caret=61,4
+[boutique.php]
+TopLine=1
+Caret=3,7
+[panier.php]
+TopLine=1
+Caret=3,7
+[index.php]
+TopLine=21
+Caret=88,48
+[js\boutique.js]
+TopLine=99
+Caret=5,118
+[head.php]
+TopLine=1
+Caret=119,9
+[foot.php]
+TopLine=1
+Caret=8,5
+[php\chaines.php]
+TopLine=1
+Caret=1,2
+[php\init.php]
+TopLine=1
+Caret=2,6
+[css\cssIndex.php]
+TopLine=130
+Caret=1,154
+[css\cssPrincipal.php]
+TopLine=87
+Caret=11,55
+[css\cssTshirt.css]
+TopLine=1
+Caret=20,1
